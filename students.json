@@ -1,0 +1,32 @@
+{
+    "status":200,
+    "students":[
+        {
+            "id":1,
+            "name":"gokul",
+            "course":"bca",
+            "email":"gokul@gmail.com",
+            "phone":"1234567890",
+            "created_at":"2020-10-10 10:10:10",
+            "updated_at":"2020-10-10 10:10:10"
+        },
+        {
+            "id":2,
+            "name":"om",
+            "course":"bca",
+            "email":"om@gmail.com",
+            "phone":"1234567890",
+            "created_at":"2020-10-10 10:10:10",
+            "updated_at":"2020-10-10 10:10:10"
+        },
+        {
+            "id":5,
+            "name":"sagar",
+            "course":"BBA",
+            "email":"sagar@gmail.com",
+            "phone":"1234567890",
+            "created_at":"2020-10-10 10:10:10",
+            "updated_at":"2020-10-10 10:10:10"
+        }
+    ]
+}
