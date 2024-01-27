@@ -13,3 +13,13 @@
 - ![Alt text](image.png)
     - vscode gives a suggestion to install the extension
     - install it
+
+- lets install bootstrap 
+    - `npm install bootstrap@5.3.2`
+    - `npm  install axios`
+
+- use
+    - `.container.mt-5` to create a div with class   container with margin top 5
+        - `<div class="container mt-5"></div>`
+    - `input.form-control` to create an input with class form-control
+        - `<input class="form-control" type="text" ></input>`
